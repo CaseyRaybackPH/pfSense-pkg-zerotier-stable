@@ -1,4 +1,4 @@
-# pfSense ZeroTier Experimental (Standalone Edition) - 
+# pfSense ZeroTier Experimental (Standalone Edition)
 
 This repository provides a hardened, standalone distribution of ZeroTier 1.12.2 for pfSense. It is specifically designed for users who experience "Signal 4" or "Signal 6" crashes and those who require an offline-installable package.
 
