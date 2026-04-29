@@ -19,7 +19,7 @@ Standard pfSense ZeroTier installations often break because:
 
 ## 🚀 Installation
 
-1. **Download** the `.txz` package from the [Releases](../../releases) section.
+1. **Download** the `.pkg` package from the [Releases](../../releases) section.
 2. **Upload** the file to your pfSense box (via SCP or Diagnostics > Command Prompt).
 3. **Install** via the shell:
    ```bash
